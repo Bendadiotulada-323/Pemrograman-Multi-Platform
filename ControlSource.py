@@ -11,4 +11,3 @@ elif Nilai >= 60:
 else:
     print("Semangat lagi belajarnya")
 
-number1 = int(input("Masukkan angka pertama"))
